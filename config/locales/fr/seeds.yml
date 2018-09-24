@@ -1,5 +1,11 @@
 fr:
   seeds:
+    settings:
+      official_level_1_name: Position officielle 1
+      official_level_2_name: Position officielle 2
+      official_level_3_name: Position officielle 3
+      official_level_4_name: Position officielle 4
+      official_level_5_name: Position officielle 5
     geozones:
       north_district: Secteur Nord
       west_district: Secteur Sud
