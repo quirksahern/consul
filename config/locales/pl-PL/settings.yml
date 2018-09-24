@@ -67,10 +67,14 @@ pl:
       legislation_description: "W procesach partycypacyjnych obywatele mają możliwość uczestniczenia w opracowywaniu i modyfikowaniu przepisów, które mają wpływ na miasto i wyrażania opinii na temat niektórych działań, które mają zostać przeprowadzone"
       spending_proposals_description: "⚠️ UWAGA: Ta funkcja została zastąpiona przez budżetowanie partycypacyjne i zniknie w nowych wersjach"
       spending_proposal_features:
+        voting_allowed: Głosowanie nad projektami inwestycyjnymi - faza preselekcji
         voting_allowed_description: "⚠️ UWAGA: Ta funkcja została zastąpiona przez budżetowanie partycypacyjne i zniknie w nowych wersjach"
       user:
+        recommendations: "Rekomendacje"
         recommendations_description: "Wyświetla rekomendacje użytkowników na stronie głównej na podstawie tagów następujących elementów"
+        skip_verification: "Pomiń weryfikację użytkownika"
         skip_verification_description: "Spowoduje to wyłączenie weryfikacji użytkownika, a wszyscy zarejestrowani użytkownicy będą mogli uczestniczyć we wszystkich procesach"
+        recommendations_on_debates: "Zalecenia dotyczące debat"
         recommendations_on_debates_description: "Wyświetla rekomendacje użytkowników dla użytkowników na stronie debat w oparciu na tagach następujących elementów"
         recommendations_on_proposals_description: "Wyświetla rekomendacje dla użytkowników na stronie wniosków w oparciu na tagach następujących elementów"
       community_description: "Włącza sekcję społeczności we wnioskach oraz projektach inwestycyjnych Budżetów Partycypacyjnych"
