@@ -46,6 +46,7 @@ fr:
     menu:
       flagged_comments: Commentaires
       flagged_debates: Débats
+      flagged_investments: Propositions d'investissement
       proposals: Propositions
       proposal_notifications: Notifications des propositions
       users: Bloquer les utilisateurs
@@ -70,6 +71,7 @@ fr:
         title: Propositions
     budget_investments:
       index:
+        block_authors: Bloquer des auteurs
         confirm: Êtes-vous sûr(e) ?
         filter: Filtrer
         filters:
@@ -78,6 +80,8 @@ fr:
           with_ignored_flag: Marqué comme vu
         headers:
           moderate: Modérer
+          budget_investment: Proposition d'investissement
+        hide_budget_investments: Cacher les propositions d'investissement
         ignore_flags: Marquer comme vu
         order: Trier par
         orders:
