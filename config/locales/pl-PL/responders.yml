@@ -2,6 +2,10 @@ pl:
   flash:
     actions:
       create:
+        notice: "%{resource_name} utworzony pomyślnie."
+        debate: "Debatę utworzono pomyślnie."
+        direct_message: "Twoja wiadomość została wysłana pomyślnie."
+        poll: "Ankieta została pomyślnie utworzona."
         poll_question_answer: "Odpowiedź została utworzona pomyślnie"
         poll_question_answer_video: "Film wideo został utworzony pomyślnie"
         poll_question_answer_image: "Obraz przesłany pomyślnie"
