@@ -56,6 +56,11 @@ pl:
     min_age_to_participate: Minimalny wiek wymagany do wzięcia udziału
     min_age_to_participate_description: "Użytkownicy powyżej tego wieku mogą uczestniczyć we wszystkich procesach"
     feature:
+      budgets_description: "Dzięki budżetom partycypacyjnym obywatele decydują, które projekty przedstawione przez ich sąsiadów otrzymają część budżetu gminy"
+      twitter_login_description: "Zezwalaj użytkownikom na rejestrację za pomocą konta na Twitterze"
+      facebook_login_description: "Zezwalaj użytkownikom na rejestrację za pomocą konta na Facebooku"
+      google_login_description: "Zezwalaj użytkownikom na rejestrację za pomocą konta Google"
+      proposals_description: "Wnioski obywatelskie są okazją dla sąsiadów i grup do bezpośredniego decydowania, w jaki sposób chcą, by wyglądało ich miasto, po uzyskaniu wystarczającego wsparcia i poddaniu się głosowaniu obywateli"
       community_description: "Włącza sekcję społeczności we wnioskach oraz projektach inwestycyjnych Budżetów Partycypacyjnych"
       map: "Wnioski i geolokalizacja budżetów inwestycyjnych"
       map_description: "Umożliwia geolokalizację wniosków i projektów inwestycyjnych"
