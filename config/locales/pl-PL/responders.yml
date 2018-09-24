@@ -23,3 +23,5 @@ pl:
         spending_proposal: "Wniosek wydatków został pomyślnie usunięty."
         budget_investment: "Projekt inwestycyjny został pomyślnie usunięty."
         error: "Nie można usunąć"
+        topic: "Temat został usunięty."
+        poll_question_answer_video: "Odpowiedź wideo została pomyślnie usunięta."
