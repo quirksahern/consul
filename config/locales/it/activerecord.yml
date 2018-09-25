@@ -131,7 +131,7 @@ it:
       budget/investment/milestone:
         status_id: "Stato attuale dell’investimento (facoltativo)"
         title: "Titolo"
-        description: "Descrizione (facoltativa sé c’è gia uno stato assegnato)"
+        description: "Descrizione (facoltativa se c’è gia uno stato assegnato)"
         publication_date: "Data di pubblicazione"
       budget/investment/status:
         name: "Nome"
