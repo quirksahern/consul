@@ -1,15 +1,34 @@
 pl:
   seeds:
+    settings:
+      official_level_1_name: Oficjalne stanowisko 1
+      official_level_2_name: Oficjalne stanowisko 2
+      official_level_3_name: Oficjalne stanowisko 3
+      official_level_4_name: Oficjalne stanowisko 4
+      official_level_5_name: Oficjalne stanowisko 5
+    geozones:
+      north_district: Okręg Północny
+      west_district: Okręg Zachodni
+      east_district: Okręg Wschodni
+      central_district: Okręg Centralny
     organizations:
       human_rights: Prawa Człowieka
+      neighborhood_association: Stowarzyszenie Sąsiedzkie
     categories:
       associations: Stowarzyszenia
       culture: Kultura
       sports: Sport
+      social_rights: Prawa Socjalne
+      economy: Gospodarka
+      employment: Zatrudnienie
+      equity: Sprawiedliwość
+      sustainability: Zrównoważony rozwój
       participation: Partycypacja
       mobility: Transport
       media: Media
+      health: Zdrowie
       transparency: Przejrzystość
+      security_emergencies: Bezpieczeństwo i sytuacje kryzysowe
     budgets:
       budget: Budżet partycypacyjny
       groups:
