@@ -6,6 +6,7 @@ pl:
         debate: "Debatę utworzono pomyślnie."
         direct_message: "Twoja wiadomość została wysłana pomyślnie."
         poll: "Ankieta została pomyślnie utworzona."
+        poll_booth: "Stanowisko zostało utworzone pomyślnie."
         poll_question_answer: "Odpowiedź została utworzona pomyślnie"
         poll_question_answer_video: "Film wideo został utworzony pomyślnie"
         poll_question_answer_image: "Obraz przesłany pomyślnie"
@@ -15,7 +16,11 @@ pl:
         budget_investment: "Inwestycja budżetowa została pomyślnie utworzona."
         signature_sheet: "Arkusz podpisu został utworzony pomyślnie"
         topic: "Temat został utworzony pomyślnie."
+        valuator_group: "Grupa wyceniając utworzona pomyślnie"
+      save_changes:
+        notice: Zmiany zapisane
       update:
+        notice: "%{resource_name} pomyślnie zaktualizowana."
         debate: "Debata zaktualizowana pomyślnie."
         poll: "Sonda została pomyślnie zaktualizowana."
         proposal: "Wniosek został zaktualizowany pomyślnie."
