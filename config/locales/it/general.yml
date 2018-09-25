@@ -774,6 +774,8 @@ it:
       not_logged_in: È necessario %{signin} o %{signup} per continuare.
       not_verified: Solo gli utenti verificati possono votare i progetti di investimento; %{verify_account}.
       organization: Alle organizzazioni non è permesso votare
+      unfeasible: I progetti di investimento irrealizzabili non possono essere sostenuti
+      not_voting_allowed: La fase di votazione è chiusa
   related_content:
     content_title:
       budget_investment: "Investimento di bilancio"
