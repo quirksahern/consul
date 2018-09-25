@@ -7,6 +7,11 @@ pl:
         remaining: "Wciąż masz <span>%{amount}</span> do zainwestowania."
         no_balloted_group_yet: "Jeszcze nie zagłosowałeś na tej grupie, oddaj swój głos!"
         remove: Usuń głos
+        voted_html:
+          one: "Zagłosowałeś na <span>jedną</span> inwestycję."
+          few: "Zagłosowałeś na <span>%{count}</span> inwestycje."
+          many: "Zagłosowałeś na <span>%{count}</span> inwestycji."
+          other: "Zagłosowałeś na <span>%{count}</span> inwestycji."
         voted_info_html: "Możesz zmienić swój głos w każdej chwili aż do końca tej fazy.<br> Nie ma potrzeby wydawania wszystkich dostępnych pieniędzy."
         zero: Nie wybrałeś/aś jeszcze żadnego projektu.
       reasons_for_not_balloting:
