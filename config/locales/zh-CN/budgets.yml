@@ -81,7 +81,7 @@ zh-CN:
         sidebar:
           my_ballot: 我的选票
           voted_html:
-            other: "<strong>您用%{amount_spent}</strong>的成本投票了%{count} 个提议"
+            other: "<strong>您用%{amount_spent}</strong>的成本对%{count} 个提议进行了投票"
           voted_info: 在此阶段结束前您可以随时%{link}。不需要花掉所有可用的钱。
           voted_info_link: 更改您的投票
           different_heading_assigned_html: "您在另一个标题中有有效投票：%{heading_link}"
@@ -133,7 +133,7 @@ zh-CN:
           other: "您只能支持%{count} 个区域的投资。如果您要继续，您就不能更改您地区的选举。是否确定？"
         supports:
           zero: 没有支持
-          other: "一个支持\n%{count} 个支持"
+          other: "%{count} 个支持"
         give_support: 支持
       header:
         check_ballot: 查看我的选票
@@ -147,8 +147,8 @@ zh-CN:
     show:
       group: 组
       phase: 实际阶段
-      unfeasible_title: 不可用的投资
-      unfeasible: 查看不可用的投资
+      unfeasible_title: 不可行的投资
+      unfeasible: 查看不可行的投资
       unselected_title: 未被选入投票阶段的投资
       unselected: 查看未被选入投票阶段的投资
       see_results: 查看结果
