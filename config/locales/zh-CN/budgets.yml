@@ -50,7 +50,7 @@ zh-CN:
       map: 预算投资提议的地理位置
       investment_proyects: 所有投资项目的列表
       unfeasible_investment_proyects: 所有不可行投资项目的列表
-      not_selected_investment_proyects: 所有未选入投票的投资项目的列表
+      not_selected_investment_proyects: 所有未选入投票阶段的投资项目的列表
       finished_budgets: 已完成的参与性预算
       see_results: 查看结果
       section_footer:
