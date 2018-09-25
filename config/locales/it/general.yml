@@ -101,12 +101,12 @@ it:
     index:
       featured_debates: In primo piano
       filter_topic:
-        one: " con argomento '%{topic}'\ncon argomento '%{topîc}'"
-        other: " con argomento '%{topic}'\ncon argomento '%{topîc}'"
+        one: " con argomento '%{topic}'"
+        other: " con argomento '%{topic}'"
       orders:
         confidence_score: più apprezzati
         created_at: più recenti
-        hot_score: più attivi oggi
+        hot_score: più attivi
         most_commented: più commentati
         relevance: rilevanza
         recommendations: consigli
