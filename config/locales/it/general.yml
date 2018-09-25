@@ -77,7 +77,7 @@ it:
   debates:
     create:
       form:
-        submit_button: Avviare un dibattito
+        submit_button: Avvia un dibattito
     debate:
       comments:
         zero: Non ci sono commenti
@@ -86,16 +86,16 @@ it:
       votes:
         zero: Nessun voto
         one: 1 voto
-        other: "1 voto\n\n%{count} voti"
+        other: "%{count} voti"
     edit:
-      editing: Modificare il dibattito
+      editing: Modifica il dibattito
       form:
-        submit_button: Salvare le modifiche
+        submit_button: Salva le modifiche
       show_link: Vedi il dibattito
     form:
       debate_text: Testo iniziale del dibattito
       debate_title: Titolo del dibattito
-      tags_instructions: Tag questo dibattito.
+      tags_instructions: Etichetta questo dibatto.
       tags_label: Argomenti
       tags_placeholder: "Inserisci i tag che desideri utilizzare, separati da virgole (',')"
     index:
@@ -776,8 +776,69 @@ it:
       organization: Alle organizzazioni non è permesso votare
       unfeasible: I progetti di investimento irrealizzabili non possono essere sostenuti
       not_voting_allowed: La fase di votazione è chiusa
+      different_heading_assigned:
+        one: "Puoi sostenere progetti di investimento solo in %{count} distretto"
+        other: "Puoi sostenere progetti di investimento solo in %{count} distretti"
+  welcome:
+    feed:
+      most_active:
+        debates: "Dibattiti più attivi"
+        proposals: "Proposte più attive"
+        processes: "Procedimenti aperti"
+      see_all_debates: Vedi tutti i dibattiti
+      see_all_proposals: Vedi tutte le proposte
+      see_all_processes: Vedi tutti i procedimenti
+      process_label: Procedimento
+      see_process: Vedi procedimento
+    cards:
+      title: In primo piano
+    recommended:
+      title: Consigli che potrebbero interessarti
+      help: "Questi consigli vengono generati in base alle etichette dei dibattiti e delle proposte che stai seguendo."
+      debates:
+        title: Dibattiti consigliati
+        btn_text_link: Tutti i dibattiti consigliati
+      proposals:
+        title: Proposte consigliate
+        btn_text_link: Tutte le proposte consigliate
+      budget_investments:
+        title: Investimenti consigliati
+      slide: "Vedi %{title}"
+    verification:
+      i_dont_have_an_account: Non ho un account
+      i_have_an_account: Ho già un account
+      question: Hai già un account su %{org_name}?
+      title: Verifica dell'account
+    welcome:
+      go_to_index: Vedi proposte e dibattiti
+      title: Partecipa
+      user_permission_debates: Partecipa ai dibattiti
+      user_permission_info: Con il tuo account puoi...
+      user_permission_proposal: Creare nuove proposte
+      user_permission_support_proposal: Sostenere proposte*
+      user_permission_verify: Per eseguire tutte le azioni verifica il tuo account.
+      user_permission_verify_info: "* Solo per gli utenti in Anagrafe."
+      user_permission_verify_my_account: Verifica il mio account
+      user_permission_votes: Partecipare al voto finale
+  invisible_captcha:
+    sentence_for_humans: "Se sei una persona fisica, ignora questo campo"
+    timestamp_error_message: "Siamo spiacenti, troppo veloce! Si prega di inviare nuovamente."
   related_content:
+    title: "Contenuti correlati"
+    add: "Aggiungi contenuti correlati"
+    label: "Link ai contenuti correlati"
+    placeholder: "%{url}"
+    help: "È possibile aggiungere collegamenti di %{models} all'interno di %{org}."
+    submit: "Aggiungi"
+    error: "Link non valido. Ricordarsi di iniziare con %{url}."
+    error_itself: "Link non valido. Non puoi correlate un contenuto a se stesso."
+    success: "Hai aggiunto un nuovo contenuto correlato"
+    is_related: "È un contenuto correlato?"
+    score_positive: "Sì"
+    score_negative: "No"
     content_title:
+      proposal: "Proposta"
+      debate: "Dibattito"
       budget_investment: "Investimento di bilancio"
   admin/widget:
     header:
