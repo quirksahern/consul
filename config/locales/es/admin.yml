@@ -557,7 +557,6 @@ es:
           community: "Comunidad"
           proposals: "Propuestas"
           polls: "Votaciones"
-          layouts: "Plantillas"
           mailers: "Correos"
           management: "Gestión"
           guides: "Guías"
@@ -1310,7 +1309,7 @@ es:
           names:
             top_links: Enlaces superiores
             footer: Pie de página
-            subnavigation_left: Navegación principal izquierda 
+            subnavigation_left: Navegación principal izquierda
             subnavigation_right: Navegación principal derecha
       images:
         index:

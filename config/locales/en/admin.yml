@@ -559,7 +559,6 @@ en:
           layouts: "Layouts"
           mailers: "Emails"
           management: "Management"
-          guides: "Guides"
           welcome: "Welcome"
         buttons:
           save: "Save"
@@ -1309,7 +1308,7 @@ en:
           names:
             top_links: Top Links
             footer: Footer
-            subnavigation_left: Main Navigation Left 
+            subnavigation_left: Main Navigation Left
             subnavigation_right: Main Navigation Right
       images:
         index:
