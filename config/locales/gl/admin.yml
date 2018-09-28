@@ -372,6 +372,7 @@ gl:
           enabled: Habilitado
           process: Proceso
           debate_phase: Fase previa
+          allegations_phase: Fase de alegaciones
           proposals_phase: Fase de propostas
           start: Comezo
           end: Remate
