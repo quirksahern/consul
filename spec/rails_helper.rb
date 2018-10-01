@@ -16,7 +16,6 @@ require 'spec_helper'
 require 'capybara/rails'
 require 'capybara/rspec'
 require 'selenium/webdriver'
-require 'capybara-screenshot/rspec'
 
 I18n.default_locale = :en
 
@@ -48,14 +47,7 @@ Capybara.register_driver :headless_chrome do |app|
   )
 end
 
-Capybara::Screenshot.register_driver(:headless_chrome) do |driver, path|
-  driver.browser.save_screenshot(path)
-end
-
-Capybara.asset_host = 'http://localhost:3000'
-Capybara::Screenshot.prune_strategy = :keep_last_run
 Capybara.javascript_driver = :headless_chrome
-Capybara.default_max_wait_time = 60
 
 Capybara.exact = true
 
