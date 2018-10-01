@@ -82,6 +82,7 @@ sq:
         key_dates: Datat kryesore
         debate_dates: Debate
         draft_publication_date: Publikimi draft
+        allegations_dates: Komente
         result_publication_date: "\nPublikimi i rezultatit përfundimtar"
         proposals_dates: Propozime
     questions:
